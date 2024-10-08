@@ -1,5 +1,7 @@
 # Kubernetes with Minikube
 
+> This assumes that you have minikube installed and running.
+
 ## Applying the configs
 
 The following are in order.
